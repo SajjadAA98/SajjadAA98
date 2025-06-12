@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SajjadAA98
 - 👀 I’m interested in AI and Robotic 
 - 🌱 I’m currently learning computing and information technology
-- 💞️ I’m looking to collaborate on ... uhh
 - 📫 How to reach me on email sajad_iraq98@yahoo.com  or instagram Sajjad.abdali98
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: no idea
+  
 
 <!---
 SajjadAA98/SajjadAA98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
